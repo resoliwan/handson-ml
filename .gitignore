@@ -1,4 +1,5 @@
 *.bak
+*.ipynb
 *.ckpt
 *.old
 *.pyc
